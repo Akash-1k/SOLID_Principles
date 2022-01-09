@@ -10,6 +10,11 @@ SOLID stands for:
 * Interface Segregation Principle
 * Dependency Inversion Principle
 
+### SOLID Principles implementation
+This example shows opertions or functionality of online Shopping which basically includes display items available buying, Cart, Discount, etc.
+**You can find the link to the pdf below:**
+
+**[SOLID.pdf](https://github.com/Akash-1k/SOLID_Principles/files/7835554/SOLID.pdf)**
 #### Single Responsibility Principle
 The Single Responsibility Principle states that a class should have only one primary responsibility and should not take other responsibilities. Robert C. Martin explains this as “A class should have only one reason to change”
 
