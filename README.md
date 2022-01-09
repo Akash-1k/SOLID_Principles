@@ -74,7 +74,9 @@ If the child Class doesn’t meet these requirements, it means the child Class i
 This principle aims to enforce consistency so that the parent Class or its child Class can be used in the same way without any errors.
 
 ```python
-# The Open-Closed Principle (OCP), The Liskov Substitution Principle (LSP) and The Dependency Inversion Principle (DIP)
+# The Open-Closed Principle (OCP)
+# The Liskov Substitution Principle (LSP) 
+# The Dependency Inversion Principle (DIP)
 
 from abc import ABC, abstractmethod
 class Discount(ABC):
