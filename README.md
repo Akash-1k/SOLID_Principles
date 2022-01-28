@@ -1,4 +1,10 @@
 ## SOLID Principles
+### SOLID Principles implementation
+This example shows opertions or functionality of online Shopping which basically includes display items available buying, Cart, Discount, etc.
+**You can find the link to the pdf below:**
+
+## **[SOLID.pdf](https://github.com/Akash-1k/SOLID_Principles/files/7835554/SOLID.pdf)**
+
 ### Description
 SOLID is an acronym for the first five object-oriented design (OOD) principles by Robert C. Martin (also known as Uncle Bob).
 These principles establish practices that lend to developing software with considerations for maintaining and extending as the project grows. Adopting these practices can also contribute to avoiding code smells, refactoring code, and Agile or Adaptive software development.
@@ -10,11 +16,6 @@ SOLID stands for:
 * Interface Segregation Principle
 * Dependency Inversion Principle
 
-### SOLID Principles implementation
-This example shows opertions or functionality of online Shopping which basically includes display items available buying, Cart, Discount, etc.
-**You can find the link to the pdf below:**
-
-**[SOLID.pdf](https://github.com/Akash-1k/SOLID_Principles/files/7835554/SOLID.pdf)**
 #### Single Responsibility Principle
 The Single Responsibility Principle states that a class should have only one primary responsibility and should not take other responsibilities. Robert C. Martin explains this as “A class should have only one reason to change”
 
